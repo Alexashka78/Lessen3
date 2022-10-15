@@ -1,0 +1,15 @@
+C:\Users\Krasi\Desktop\LessenC#3\Findingmax\bin\Debug\net6.0\Findingmax.exe
+C:\Users\Krasi\Desktop\LessenC#3\Findingmax\bin\Debug\net6.0\Findingmax.deps.json
+C:\Users\Krasi\Desktop\LessenC#3\Findingmax\bin\Debug\net6.0\Findingmax.runtimeconfig.json
+C:\Users\Krasi\Desktop\LessenC#3\Findingmax\bin\Debug\net6.0\Findingmax.dll
+C:\Users\Krasi\Desktop\LessenC#3\Findingmax\bin\Debug\net6.0\Findingmax.pdb
+C:\Users\Krasi\Desktop\LessenC#3\Findingmax\obj\Debug\net6.0\Findingmax.csproj.AssemblyReference.cache
+C:\Users\Krasi\Desktop\LessenC#3\Findingmax\obj\Debug\net6.0\Findingmax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krasi\Desktop\LessenC#3\Findingmax\obj\Debug\net6.0\Findingmax.AssemblyInfoInputs.cache
+C:\Users\Krasi\Desktop\LessenC#3\Findingmax\obj\Debug\net6.0\Findingmax.AssemblyInfo.cs
+C:\Users\Krasi\Desktop\LessenC#3\Findingmax\obj\Debug\net6.0\Findingmax.csproj.CoreCompileInputs.cache
+C:\Users\Krasi\Desktop\LessenC#3\Findingmax\obj\Debug\net6.0\Findingmax.dll
+C:\Users\Krasi\Desktop\LessenC#3\Findingmax\obj\Debug\net6.0\refint\Findingmax.dll
+C:\Users\Krasi\Desktop\LessenC#3\Findingmax\obj\Debug\net6.0\Findingmax.pdb
+C:\Users\Krasi\Desktop\LessenC#3\Findingmax\obj\Debug\net6.0\Findingmax.genruntimeconfig.cache
+C:\Users\Krasi\Desktop\LessenC#3\Findingmax\obj\Debug\net6.0\ref\Findingmax.dll
