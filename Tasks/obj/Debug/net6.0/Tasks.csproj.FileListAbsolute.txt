@@ -1,0 +1,15 @@
+C:\Users\Krasi\Desktop\LessenC#3\Tasks\obj\Debug\net6.0\Tasks.csproj.AssemblyReference.cache
+C:\Users\Krasi\Desktop\LessenC#3\Tasks\obj\Debug\net6.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krasi\Desktop\LessenC#3\Tasks\obj\Debug\net6.0\Tasks.AssemblyInfoInputs.cache
+C:\Users\Krasi\Desktop\LessenC#3\Tasks\obj\Debug\net6.0\Tasks.AssemblyInfo.cs
+C:\Users\Krasi\Desktop\LessenC#3\Tasks\obj\Debug\net6.0\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Krasi\Desktop\LessenC#3\Tasks\bin\Debug\net6.0\Tasks.exe
+C:\Users\Krasi\Desktop\LessenC#3\Tasks\bin\Debug\net6.0\Tasks.deps.json
+C:\Users\Krasi\Desktop\LessenC#3\Tasks\bin\Debug\net6.0\Tasks.runtimeconfig.json
+C:\Users\Krasi\Desktop\LessenC#3\Tasks\bin\Debug\net6.0\Tasks.dll
+C:\Users\Krasi\Desktop\LessenC#3\Tasks\bin\Debug\net6.0\Tasks.pdb
+C:\Users\Krasi\Desktop\LessenC#3\Tasks\obj\Debug\net6.0\Tasks.dll
+C:\Users\Krasi\Desktop\LessenC#3\Tasks\obj\Debug\net6.0\refint\Tasks.dll
+C:\Users\Krasi\Desktop\LessenC#3\Tasks\obj\Debug\net6.0\Tasks.pdb
+C:\Users\Krasi\Desktop\LessenC#3\Tasks\obj\Debug\net6.0\Tasks.genruntimeconfig.cache
+C:\Users\Krasi\Desktop\LessenC#3\Tasks\obj\Debug\net6.0\ref\Tasks.dll
