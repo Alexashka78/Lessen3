@@ -1,0 +1,15 @@
+C:\Users\Krasi\Desktop\LessenC#3\Metod\obj\Debug\net6.0\Metod.csproj.AssemblyReference.cache
+C:\Users\Krasi\Desktop\LessenC#3\Metod\obj\Debug\net6.0\Metod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krasi\Desktop\LessenC#3\Metod\obj\Debug\net6.0\Metod.AssemblyInfoInputs.cache
+C:\Users\Krasi\Desktop\LessenC#3\Metod\obj\Debug\net6.0\Metod.AssemblyInfo.cs
+C:\Users\Krasi\Desktop\LessenC#3\Metod\obj\Debug\net6.0\Metod.csproj.CoreCompileInputs.cache
+C:\Users\Krasi\Desktop\LessenC#3\Metod\bin\Debug\net6.0\Metod.exe
+C:\Users\Krasi\Desktop\LessenC#3\Metod\bin\Debug\net6.0\Metod.deps.json
+C:\Users\Krasi\Desktop\LessenC#3\Metod\bin\Debug\net6.0\Metod.runtimeconfig.json
+C:\Users\Krasi\Desktop\LessenC#3\Metod\bin\Debug\net6.0\Metod.dll
+C:\Users\Krasi\Desktop\LessenC#3\Metod\bin\Debug\net6.0\Metod.pdb
+C:\Users\Krasi\Desktop\LessenC#3\Metod\obj\Debug\net6.0\Metod.dll
+C:\Users\Krasi\Desktop\LessenC#3\Metod\obj\Debug\net6.0\refint\Metod.dll
+C:\Users\Krasi\Desktop\LessenC#3\Metod\obj\Debug\net6.0\Metod.pdb
+C:\Users\Krasi\Desktop\LessenC#3\Metod\obj\Debug\net6.0\Metod.genruntimeconfig.cache
+C:\Users\Krasi\Desktop\LessenC#3\Metod\obj\Debug\net6.0\ref\Metod.dll
